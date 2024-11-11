@@ -7,7 +7,7 @@ int main()
     cin>>a;
     cout<<"Enter 2nd Number :";
     cin>>b;
-    sum=a+b;
-    cout<<"Sum of two digits are : "<<a<<" + "<<b<<" = "<< sum;
+    sum=a-b;
+    cout<<"Sub of two digits are : "<<a<<" - "<<b<<" = "<< sum;
     return 0;
 }
